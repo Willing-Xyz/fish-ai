@@ -26,6 +26,7 @@ dependencies = [
   "groq==1.0.0",
   "google-genai==1.56.0",
   "httpx[socks]==0.28.1"
+  "pysocks==1.7.1"
 ]
 
 [project.urls]
